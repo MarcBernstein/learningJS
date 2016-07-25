@@ -1,11 +1,11 @@
 /*eslint no-console: ["error", { allow: ["log", "warn", "error"] }] */
 
 function main() {
-  console.log("Hello")
+  console.log("Hello");
 }
 
-main()
-console.log("echo")
+main();
+console.log("echo");
 // prints "echo" to the console
 /*
 In the previous line, everything up to the double forward slashes
